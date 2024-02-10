@@ -45,12 +45,15 @@ body {
 	padding: auto;
 	width: 25px;
 }
+.weather{
+	display: none;
+}
 .weather_info {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 }
-.weather_info .weather_condition {
+.weather_info img {
 	align-items: center;
 	width: 200px;
 }
