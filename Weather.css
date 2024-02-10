@@ -57,7 +57,9 @@ body {
 	padding: 10px;
 	padding-top: 30px;
 	text-align: center;
-	color: #000000;
+	color: #fff;
+	font-size:30px;
+	font-weight:bold;
 	display: none;
 }
 .weather{
@@ -73,10 +75,12 @@ body {
 	width: 200px;
 }
 .weather_info h1 {
+	margin:10px;
 	font-size: 70px;
 	font-weight: bold;
 }
 .weather_info h2 {
+	margin:10px;
 	font-size: 50px;
 	font-weight: 400;
 }
